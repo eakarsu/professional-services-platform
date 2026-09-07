@@ -1,0 +1,585 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "report",
+      "proposal",
+      "template-recommendation",
+      "notification-engine-emailsms-reminder",
+      "generate-proposal",
+      "batch09-gap-nonai-proposal-generation-beyond-templates",
+      "batch09-gap-nonai-knowledge-base-wiki",
+      "batch09-gap-nonai-negotiation-playbook-template-library"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 11 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "report",
+        "title": "AI Report Generator",
+        "originalPath": "/features/report"
+      },
+      {
+        "id": "proposal",
+        "title": "AI Proposal Generator",
+        "originalPath": "/features/proposal"
+      },
+      {
+        "id": "template-recommendation",
+        "title": "Template recommendation",
+        "originalPath": "/features/template-recommendation"
+      },
+      {
+        "id": "notification-engine-emailsms-reminder",
+        "title": "notification engine emailsms reminder",
+        "originalPath": "/features/notification-engine-emailsms-reminder"
+      },
+      {
+        "id": "generate-proposal",
+        "title": "Generate proposal",
+        "originalPath": "/features/generate-proposal"
+      },
+      {
+        "id": "batch09-gap-nonai-proposal-generation-beyond-templates",
+        "title": "Proposal generation beyond templates",
+        "originalPath": "/features/batch09-gap-nonai-proposal-generation-beyond-templates"
+      },
+      {
+        "id": "batch09-gap-nonai-knowledge-base-wiki",
+        "title": "Knowledge base wiki",
+        "originalPath": "/features/batch09-gap-nonai-knowledge-base-wiki"
+      },
+      {
+        "id": "batch09-gap-nonai-negotiation-playbook-template-library",
+        "title": "Negotiation playbook template library",
+        "originalPath": "/features/batch09-gap-nonai-negotiation-playbook-template-library"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "content",
+      "resume",
+      "matcher",
+      "interview",
+      "dashboard-ai",
+      "time-estimator",
+      "lab",
+      "deliverable-generator",
+      "msa-sow-library",
+      "resource-rate-card",
+      "time-entry-ingestion",
+      "deliverable-acceptance-tracking",
+      "out-of-scope-work-quantification",
+      "client-dispute-workflow",
+      "cash-collection-tracking",
+      "project-client-analytics",
+      "business-intelligence",
+      "client-feedback-review-system",
+      "batch09-gap-ai-ai-personalization-of-content-per-visitor-segment",
+      "batch09-gap-nonai-engagement-project-tracking",
+      "batch09-gap-nonai-contract-lifecycle-management-module",
+      "batch09-gap-nonai-mobile-partner-portal-ui",
+      "code",
+      "integration",
+      "debug"
+    ],
+    "ai": true,
+    "representativeId": "content",
+    "description": "One assistant for 25 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "content",
+        "title": "AI Content Generator",
+        "originalPath": "/features/content"
+      },
+      {
+        "id": "resume",
+        "title": "AI Resume Screener",
+        "originalPath": "/features/resume"
+      },
+      {
+        "id": "matcher",
+        "title": "AI Candidate Matcher",
+        "originalPath": "/features/matcher"
+      },
+      {
+        "id": "interview",
+        "title": "AI Interview Assistant",
+        "originalPath": "/features/interview"
+      },
+      {
+        "id": "dashboard-ai",
+        "title": "AI Tools",
+        "originalPath": "/features/dashboard-ai"
+      },
+      {
+        "id": "time-estimator",
+        "title": "Time estimator",
+        "originalPath": "/features/time-estimator"
+      },
+      {
+        "id": "lab",
+        "title": "Lab",
+        "originalPath": "/features/lab"
+      },
+      {
+        "id": "deliverable-generator",
+        "title": "Deliverable generator",
+        "originalPath": "/features/deliverable-generator"
+      },
+      {
+        "id": "msa-sow-library",
+        "title": "MSA SOW library",
+        "originalPath": "/features/msa-sow-library"
+      },
+      {
+        "id": "resource-rate-card",
+        "title": "Resource rate card",
+        "originalPath": "/features/resource-rate-card"
+      },
+      {
+        "id": "time-entry-ingestion",
+        "title": "Time entry ingestion",
+        "originalPath": "/features/time-entry-ingestion"
+      },
+      {
+        "id": "deliverable-acceptance-tracking",
+        "title": "Deliverable acceptance tracking",
+        "originalPath": "/features/deliverable-acceptance-tracking"
+      },
+      {
+        "id": "out-of-scope-work-quantification",
+        "title": "Out-of-scope work quantification",
+        "originalPath": "/features/out-of-scope-work-quantification"
+      },
+      {
+        "id": "client-dispute-workflow",
+        "title": "Client dispute workflow",
+        "originalPath": "/features/client-dispute-workflow"
+      },
+      {
+        "id": "cash-collection-tracking",
+        "title": "Cash collection tracking",
+        "originalPath": "/features/cash-collection-tracking"
+      },
+      {
+        "id": "project-client-analytics",
+        "title": "Project client analytics",
+        "originalPath": "/features/project-client-analytics"
+      },
+      {
+        "id": "business-intelligence",
+        "title": "Business intelligence",
+        "originalPath": "/features/business-intelligence"
+      },
+      {
+        "id": "client-feedback-review-system",
+        "title": "client feedback review system",
+        "originalPath": "/features/client-feedback-review-system"
+      },
+      {
+        "id": "batch09-gap-ai-ai-personalization-of-content-per-visitor-segment",
+        "title": "Personalization of content per visitor segment",
+        "originalPath": "/features/batch09-gap-ai-ai-personalization-of-content-per-visitor-segment"
+      },
+      {
+        "id": "batch09-gap-nonai-engagement-project-tracking",
+        "title": "Engagement project tracking",
+        "originalPath": "/features/batch09-gap-nonai-engagement-project-tracking"
+      },
+      {
+        "id": "batch09-gap-nonai-contract-lifecycle-management-module",
+        "title": "Contract lifecycle management module",
+        "originalPath": "/features/batch09-gap-nonai-contract-lifecycle-management-module"
+      },
+      {
+        "id": "batch09-gap-nonai-mobile-partner-portal-ui",
+        "title": "Mobile partner portal ui",
+        "originalPath": "/features/batch09-gap-nonai-mobile-partner-portal-ui"
+      },
+      {
+        "id": "code",
+        "title": "AI Code Generator",
+        "originalPath": "/features/code"
+      },
+      {
+        "id": "integration",
+        "title": "AI Integration Helper",
+        "originalPath": "/features/integration"
+      },
+      {
+        "id": "debug",
+        "title": "AI Debugging",
+        "originalPath": "/features/debug"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "social",
+      "seo",
+      "lead",
+      "campaign",
+      "churn-predictor",
+      "sentiment-classifier",
+      "client-churn-predictor",
+      "client-churn-prediction",
+      "batch09-gap-nonai-email-campaign-module"
+    ],
+    "ai": true,
+    "representativeId": "social",
+    "description": "One assistant for 9 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "social",
+        "title": "AI Social Media Manager",
+        "originalPath": "/features/social"
+      },
+      {
+        "id": "seo",
+        "title": "AI SEO Optimizer",
+        "originalPath": "/features/seo"
+      },
+      {
+        "id": "lead",
+        "title": "AI Lead Scorer",
+        "originalPath": "/features/lead"
+      },
+      {
+        "id": "campaign",
+        "title": "AI Campaign Optimizer",
+        "originalPath": "/features/campaign"
+      },
+      {
+        "id": "churn-predictor",
+        "title": "Churn predictor",
+        "originalPath": "/features/churn-predictor"
+      },
+      {
+        "id": "sentiment-classifier",
+        "title": "Sentiment classifier",
+        "originalPath": "/features/sentiment-classifier"
+      },
+      {
+        "id": "client-churn-predictor",
+        "title": "Client churn predictor",
+        "originalPath": "/features/client-churn-predictor"
+      },
+      {
+        "id": "client-churn-prediction",
+        "title": "client churn prediction",
+        "originalPath": "/features/client-churn-prediction"
+      },
+      {
+        "id": "batch09-gap-nonai-email-campaign-module",
+        "title": "Email campaign module",
+        "originalPath": "/features/batch09-gap-nonai-email-campaign-module"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "analysis",
+      "margin-analyzer",
+      "change-request-detection",
+      "real-time-cash-flow-forecasting-simulati",
+      "project-profitability-analysis-endpoi",
+      "skill-gap-or-upskilling-recommender",
+      "engagement-prediction",
+      "predict-engagement",
+      "insights",
+      "batch09-cfs-predictive-engagement-modeling-clients-likely-to-hire-for-ne",
+      "batch09-gap-ai-ai-client-intent-scoring-on-contact-submissions",
+      "batch09-gap-ai-ai-competitor-positioning-analysis",
+      "partner-recommend",
+      "batch09-cfs-predictive-deal-closure-with-probability-modeling",
+      "batch09-cfs-strategic-partner-recommendation-engine",
+      "batch09-gap-ai-ai-opportunity-scoring-and-stage-prediction",
+      "batch09-gap-ai-partner-performance-prediction",
+      "batch09-gap-ai-deal-stage-forecasting",
+      "batch09-gap-ai-conflict-resolution-recommendation",
+      "optimization"
+    ],
+    "ai": true,
+    "representativeId": "analysis",
+    "description": "One assistant for 20 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "analysis",
+        "title": "AI Competitive Analysis",
+        "originalPath": "/features/analysis"
+      },
+      {
+        "id": "margin-analyzer",
+        "title": "Margin analyzer",
+        "originalPath": "/features/margin-analyzer"
+      },
+      {
+        "id": "change-request-detection",
+        "title": "Change request detection",
+        "originalPath": "/features/change-request-detection"
+      },
+      {
+        "id": "real-time-cash-flow-forecasting-simulati",
+        "title": "real time cash flow forecasting simulati",
+        "originalPath": "/features/real-time-cash-flow-forecasting-simulati"
+      },
+      {
+        "id": "project-profitability-analysis-endpoi",
+        "title": "project profitability analysis endpoi",
+        "originalPath": "/features/project-profitability-analysis-endpoi"
+      },
+      {
+        "id": "skill-gap-or-upskilling-recommender",
+        "title": "skill gap or upskilling recommender",
+        "originalPath": "/features/skill-gap-or-upskilling-recommender"
+      },
+      {
+        "id": "engagement-prediction",
+        "title": "Engagement prediction",
+        "originalPath": "/features/engagement-prediction"
+      },
+      {
+        "id": "predict-engagement",
+        "title": "Predict engagement",
+        "originalPath": "/features/predict-engagement"
+      },
+      {
+        "id": "insights",
+        "title": "Insights",
+        "originalPath": "/features/insights"
+      },
+      {
+        "id": "batch09-cfs-predictive-engagement-modeling-clients-likely-to-hire-for-ne",
+        "title": "Predictive engagement modeling clients likely to hire for ne",
+        "originalPath": "/features/batch09-cfs-predictive-engagement-modeling-clients-likely-to-hire-for-ne"
+      },
+      {
+        "id": "batch09-gap-ai-ai-client-intent-scoring-on-contact-submissions",
+        "title": "Client intent scoring on contact submissions",
+        "originalPath": "/features/batch09-gap-ai-ai-client-intent-scoring-on-contact-submissions"
+      },
+      {
+        "id": "batch09-gap-ai-ai-competitor-positioning-analysis",
+        "title": "Competitor positioning analysis",
+        "originalPath": "/features/batch09-gap-ai-ai-competitor-positioning-analysis"
+      },
+      {
+        "id": "partner-recommend",
+        "title": "Partner recommend",
+        "originalPath": "/features/partner-recommend"
+      },
+      {
+        "id": "batch09-cfs-predictive-deal-closure-with-probability-modeling",
+        "title": "Predictive deal closure with probability modeling",
+        "originalPath": "/features/batch09-cfs-predictive-deal-closure-with-probability-modeling"
+      },
+      {
+        "id": "batch09-cfs-strategic-partner-recommendation-engine",
+        "title": "Strategic partner recommendation engine",
+        "originalPath": "/features/batch09-cfs-strategic-partner-recommendation-engine"
+      },
+      {
+        "id": "batch09-gap-ai-ai-opportunity-scoring-and-stage-prediction",
+        "title": "Opportunity scoring and stage prediction",
+        "originalPath": "/features/batch09-gap-ai-ai-opportunity-scoring-and-stage-prediction"
+      },
+      {
+        "id": "batch09-gap-ai-partner-performance-prediction",
+        "title": "Partner performance prediction",
+        "originalPath": "/features/batch09-gap-ai-partner-performance-prediction"
+      },
+      {
+        "id": "batch09-gap-ai-deal-stage-forecasting",
+        "title": "Deal stage forecasting",
+        "originalPath": "/features/batch09-gap-ai-deal-stage-forecasting"
+      },
+      {
+        "id": "batch09-gap-ai-conflict-resolution-recommendation",
+        "title": "Conflict resolution recommendation",
+        "originalPath": "/features/batch09-gap-ai-conflict-resolution-recommendation"
+      },
+      {
+        "id": "optimization",
+        "title": "AI Optimization",
+        "originalPath": "/features/optimization"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "invoice-anomaly",
+      "pricing-optimizer",
+      "fixed-fee-allocation",
+      "time-material-billing",
+      "price-escalation-control",
+      "invoice-generation",
+      "pricing-prediction",
+      "batch09-cfs-predictive-pricing-for-services",
+      "batch09-gap-nonai-retainer-billing-and-invoicing",
+      "batch09-gap-nonai-payoutrevenue-share-management",
+      "batch09-gap-nonai-financial-reporting-and-reconciliation"
+    ],
+    "ai": true,
+    "representativeId": "invoice-anomaly",
+    "description": "One assistant for 11 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "invoice-anomaly",
+        "title": "Invoice anomaly",
+        "originalPath": "/features/invoice-anomaly"
+      },
+      {
+        "id": "pricing-optimizer",
+        "title": "Pricing optimizer",
+        "originalPath": "/features/pricing-optimizer"
+      },
+      {
+        "id": "fixed-fee-allocation",
+        "title": "Fixed-fee allocation",
+        "originalPath": "/features/fixed-fee-allocation"
+      },
+      {
+        "id": "time-material-billing",
+        "title": "Time-material billing",
+        "originalPath": "/features/time-material-billing"
+      },
+      {
+        "id": "price-escalation-control",
+        "title": "Price escalation control",
+        "originalPath": "/features/price-escalation-control"
+      },
+      {
+        "id": "invoice-generation",
+        "title": "Invoice generation",
+        "originalPath": "/features/invoice-generation"
+      },
+      {
+        "id": "pricing-prediction",
+        "title": "Pricing prediction",
+        "originalPath": "/features/pricing-prediction"
+      },
+      {
+        "id": "batch09-cfs-predictive-pricing-for-services",
+        "title": "Predictive pricing for services",
+        "originalPath": "/features/batch09-cfs-predictive-pricing-for-services"
+      },
+      {
+        "id": "batch09-gap-nonai-retainer-billing-and-invoicing",
+        "title": "Retainer billing and invoicing",
+        "originalPath": "/features/batch09-gap-nonai-retainer-billing-and-invoicing"
+      },
+      {
+        "id": "batch09-gap-nonai-payoutrevenue-share-management",
+        "title": "Payoutrevenue share management",
+        "originalPath": "/features/batch09-gap-nonai-payoutrevenue-share-management"
+      },
+      {
+        "id": "batch09-gap-nonai-financial-reporting-and-reconciliation",
+        "title": "Financial reporting and reconciliation",
+        "originalPath": "/features/batch09-gap-nonai-financial-reporting-and-reconciliation"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "smart-dispatch",
+      "capacity-forecast"
+    ],
+    "ai": true,
+    "representativeId": "smart-dispatch",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "smart-dispatch",
+        "title": "Smart dispatch",
+        "originalPath": "/features/smart-dispatch"
+      },
+      {
+        "id": "capacity-forecast",
+        "title": "Capacity forecast",
+        "originalPath": "/features/capacity-forecast"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "expense-eligibility",
+      "milestone-completion-evidence",
+      "compliance-reviews",
+      "batch09-gap-ai-governance-compliance-auto-checks"
+    ],
+    "ai": true,
+    "representativeId": "expense-eligibility",
+    "description": "One assistant for 4 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "expense-eligibility",
+        "title": "Expense eligibility",
+        "originalPath": "/features/expense-eligibility"
+      },
+      {
+        "id": "milestone-completion-evidence",
+        "title": "Milestone completion evidence",
+        "originalPath": "/features/milestone-completion-evidence"
+      },
+      {
+        "id": "compliance-reviews",
+        "title": "Compliance reviews",
+        "originalPath": "/features/compliance-reviews"
+      },
+      {
+        "id": "batch09-gap-ai-governance-compliance-auto-checks",
+        "title": "Governance compliance auto checks",
+        "originalPath": "/features/batch09-gap-ai-governance-compliance-auto-checks"
+      }
+    ]
+  }
+]

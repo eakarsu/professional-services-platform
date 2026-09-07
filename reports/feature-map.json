@@ -1,0 +1,1758 @@
+{
+  "mapped": [
+    {
+      "project": "agencyServices",
+      "sourceKey": "content",
+      "source": "/Volumes/external/projects/agencyServices/src/app/dashboard/ai/page.tsx",
+      "canonical": "content",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "social",
+      "source": "/Volumes/external/projects/agencyServices/src/app/dashboard/ai/page.tsx",
+      "canonical": "social",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "seo",
+      "source": "/Volumes/external/projects/agencyServices/src/app/dashboard/ai/page.tsx",
+      "canonical": "seo",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "resume",
+      "source": "/Volumes/external/projects/agencyServices/src/app/dashboard/ai/page.tsx",
+      "canonical": "resume",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "lead",
+      "source": "/Volumes/external/projects/agencyServices/src/app/dashboard/ai/page.tsx",
+      "canonical": "lead",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "report",
+      "source": "/Volumes/external/projects/agencyServices/src/app/dashboard/ai/page.tsx",
+      "canonical": "report",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "matcher",
+      "source": "/Volumes/external/projects/agencyServices/src/app/dashboard/ai/page.tsx",
+      "canonical": "matcher",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "interview",
+      "source": "/Volumes/external/projects/agencyServices/src/app/dashboard/ai/page.tsx",
+      "canonical": "interview",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "proposal",
+      "source": "/Volumes/external/projects/agencyServices/src/app/dashboard/ai/page.tsx",
+      "canonical": "proposal",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "campaign",
+      "source": "/Volumes/external/projects/agencyServices/src/app/dashboard/ai/page.tsx",
+      "canonical": "campaign",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "analysis",
+      "source": "/Volumes/external/projects/agencyServices/src/app/dashboard/ai/page.tsx",
+      "canonical": "analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "/dashboard/clients",
+      "source": "/Volumes/external/projects/agencyServices/src/components/Sidebar.tsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "/dashboard/projects",
+      "source": "/Volumes/external/projects/agencyServices/src/components/Sidebar.tsx",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "/dashboard/campaigns",
+      "source": "/Volumes/external/projects/agencyServices/src/components/Sidebar.tsx",
+      "canonical": "dashboard-campaigns",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "/dashboard/candidates",
+      "source": "/Volumes/external/projects/agencyServices/src/components/Sidebar.tsx",
+      "canonical": "dashboard-candidates",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "/dashboard/placement-guarantees",
+      "source": "/Volumes/external/projects/agencyServices/src/components/Sidebar.tsx",
+      "canonical": "dashboard-placement-guarantees",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "/dashboard/jobs",
+      "source": "/Volumes/external/projects/agencyServices/src/components/Sidebar.tsx",
+      "canonical": "dashboard-jobs",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "/dashboard/leads",
+      "source": "/Volumes/external/projects/agencyServices/src/components/Sidebar.tsx",
+      "canonical": "dashboard-leads",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "/dashboard/billing",
+      "source": "/Volumes/external/projects/agencyServices/src/components/Sidebar.tsx",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "/dashboard/reports",
+      "source": "/Volumes/external/projects/agencyServices/src/components/Sidebar.tsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "/dashboard/ai",
+      "source": "/Volumes/external/projects/agencyServices/src/components/Sidebar.tsx",
+      "canonical": "dashboard-ai",
+      "kind": "definition"
+    },
+    {
+      "project": "agencyServices",
+      "sourceKey": "/dashboard/settings",
+      "source": "/Volumes/external/projects/agencyServices/src/components/Sidebar.tsx",
+      "canonical": "dashboard-settings",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "/service-delivery",
+      "source": "/Volumes/external/projects/ai-native-service-companies/frontend/src/components/Layout.tsx",
+      "canonical": "service-delivery",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "/clients",
+      "source": "/Volumes/external/projects/ai-native-service-companies/frontend/src/components/Layout.tsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "/tasks",
+      "source": "/Volumes/external/projects/ai-native-service-companies/frontend/src/components/Layout.tsx",
+      "canonical": "tasks",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "/staff",
+      "source": "/Volumes/external/projects/ai-native-service-companies/frontend/src/components/Layout.tsx",
+      "canonical": "staff",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "/invoices",
+      "source": "/Volumes/external/projects/ai-native-service-companies/frontend/src/components/Layout.tsx",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "/slas",
+      "source": "/Volumes/external/projects/ai-native-service-companies/frontend/src/components/Layout.tsx",
+      "canonical": "slas",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/ai-native-service-companies/frontend/src/components/Layout.tsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "/retainer-burn-monitor",
+      "source": "/Volumes/external/projects/ai-native-service-companies/frontend/src/components/Layout.tsx",
+      "canonical": "retainer-burn-monitor",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "ai/churn-predictor",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "churn-predictor",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "ai/time-estimator",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "time-estimator",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "ai/sentiment-classifier",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "sentiment-classifier",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "ai/invoice-anomaly",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "invoice-anomaly",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "ai/smart-dispatch",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "smart-dispatch",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "audit-log",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "ai-lab",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "lab",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "export",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "export",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "service-catalog",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "service-catalog",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "gap/template-recommendation",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "template-recommendation",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "gap/pricing-optimizer",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "pricing-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "gap/capacity-forecast",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "capacity-forecast",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "gap/deliverable-generator",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "deliverable-generator",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "gap/client-churn-predictor",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "client-churn-predictor",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "gap/time-tracking",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "time",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "gap/client-portal",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "client-portal",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "gap/deliverable-storage",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "deliverable-storage",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "gap/payment-gateway",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "payment-gateway",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "gap/notification-layer",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "notification-layer",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "cf/agent-fleet",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "agent-fleet",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "cf/outcome-pricing",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "outcome-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "cf/slack-channel-auto",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "slack-channel-auto",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "cf/margin-analyzer",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "margin-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "ai-native-service-companies",
+      "sourceKey": "cf/service-productize",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "canonical": "service-productize",
+      "kind": "route"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "msa-sow-library",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "msa-sow-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "resource-rate-card",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "resource-rate-card",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "time-entry-ingestion",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "time-entry-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "expense-eligibility",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "expense-eligibility",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "milestone-completion-evidence",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "milestone-completion-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "deliverable-acceptance-tracking",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "deliverable-acceptance-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "fixed-fee-allocation",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "fixed-fee-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "time-material-billing",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "time-material-billing",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "change-request-detection",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "change-request-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "out-of-scope-work-quantification",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "out-of-scope-work-quantification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "price-escalation-control",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "price-escalation-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "invoice-generation",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "invoice-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "client-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "client-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "cash-collection-tracking",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "cash-collection-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "project-client-analytics",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/app.config.mjs",
+      "canonical": "project-client-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "/projects",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "/clients",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "/invoices",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "/contracts",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "canonical": "contracts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "/time-tracking",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "canonical": "time",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "/proposals",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "canonical": "proposals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "/tasks",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "canonical": "tasks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "/communications",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "/revenue-reports",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "canonical": "revenue-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "/goals",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "canonical": "goals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "ai-business-intelligence",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "business-intelligence",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "backlog",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "backlog",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "scope-creep-margin-guard",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "scope-creep-margin-guard",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "cf-agentic-proposal-generation-crafting-cus",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "agentic-proposal-generation-crafting-cus",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "cf-real-time-cash-flow-forecasting-simulati",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "real-time-cash-flow-forecasting-simulati",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "cf-skill-demand-marketplace-integration-agg",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "skill-demand-marketplace-integration-agg",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "cf-multi-currency-invoicing-fx-hedging-advi",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "multi-currency-invoicing-fx-hedging-advi",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "cf-peer-benchmarking-network-with-privacy-p",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "peer-benchmarking-network-with-privacy-p",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "cf-automated-contract-risk-scanner-flagging",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "automated-contract-risk-scanner-flagging",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "gap-no-project-profitability-analysis-endpoi",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "project-profitability-analysis-endpoi",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "gap-no-rate-optimization-endpoint-suggesting",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "rate-optimization-endpoint-suggesting",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "gap-no-client-churn-prediction",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "client-churn-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "gap-no-skill-gap-or-upskilling-recommender",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "skill-gap-or-upskilling-recommender",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "gap-no-contract-risk-nlp-scanner",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "contract-risk-nlp-scanner",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "gap-limited-file-upload-no-multerobject-stor",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "limited-file-upload-no-multerobject-stor",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "gap-no-client-feedback-review-system",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "client-feedback-review-system",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "gap-no-notification-engine-emailsms-reminder",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "notification-engine-emailsms-reminder",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "gap-no-portfolio-case-study-module",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "portfolio-case-study-module",
+      "kind": "route"
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "sourceKey": "gap-no-subscriptionplan-management-for-the-f",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "canonical": "subscriptionplan-management-for-the-f",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "engagement-prediction",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "engagement-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "whitepaper-generate",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "whitepaper-generate",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "consultant-match",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "consultant-match",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "pricing-prediction",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "pricing-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "comm-timeline",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "comm-timeline",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "crm-sync",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "crm-sync",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "thought-leadership",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "thought-leadership",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "speaking-opportunities",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "speaking-opportunities",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "services",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "services",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "contact",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "book-consultation",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "book-consultation",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "admin",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "admin",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "ai/generate-proposal",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "generate-proposal",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "ai/predict-engagement",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "predict-engagement",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "insights",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "insights",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "case-studies",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "case-studies",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "industries",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "industries",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "testimonials",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "testimonials",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "consultations",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "consultations",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "contacts",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/cfs/predictive-engagement-modeling-clients-likely-to-hire-for-ne",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-cfs-predictive-engagement-modeling-clients-likely-to-hire-for-ne",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/cfs/white-paper-generation-from-case-study-data",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-cfs-white-paper-generation-from-case-study-data",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/cfs/consultant-matching-by-client-industrychallenge",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-cfs-consultant-matching-by-client-industrychallenge",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/cfs/predictive-pricing-for-services",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-cfs-predictive-pricing-for-services",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/cfs/client-communication-timeline-optimization",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-cfs-client-communication-timeline-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/cfs/crm-integration-salesforcehubspot",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-cfs-crm-integration-salesforcehubspot",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/cfs/thought-leadership-automation",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-cfs-thought-leadership-automation",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/cfs/webinarspeaking-opportunity-identification",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-cfs-webinarspeaking-opportunity-identification",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/gap-ai/ai-client-intent-scoring-on-contact-submissions",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-gap-ai-ai-client-intent-scoring-on-contact-submissions",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/gap-ai/ai-competitor-positioning-analysis",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-gap-ai-ai-competitor-positioning-analysis",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/gap-ai/ai-personalization-of-content-per-visitor-segment",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-gap-ai-ai-personalization-of-content-per-visitor-segment",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/gap-nonai/proposal-generation-beyond-templates",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-gap-nonai-proposal-generation-beyond-templates",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/gap-nonai/engagement-project-tracking",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-gap-nonai-engagement-project-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/gap-nonai/retainer-billing-and-invoicing",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-gap-nonai-retainer-billing-and-invoicing",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/gap-nonai/knowledge-base-wiki",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-gap-nonai-knowledge-base-wiki",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/gap-nonai/calendar-integration-for-consultations",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-gap-nonai-calendar-integration-for-consultations",
+      "kind": "route"
+    },
+    {
+      "project": "akarsuadvisory",
+      "sourceKey": "batch09/gap-nonai/email-campaign-module",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "canonical": "batch09-gap-nonai-email-campaign-module",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "deal-closure",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "deal-closure",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "partner-risk",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "partner-risk",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "partner-conflicts",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "partner-conflicts",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "payout-calc",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "payout-calc",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "governance-check",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "governance-check",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "finance-sync",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "finance-sync",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "partner-recommend",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "partner-recommend",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "clm-sync",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "clm-sync",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "contacts",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "organizations",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "organizations",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "leads",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "dashboard-leads",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "opportunities",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "opportunities",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "products",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "products",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "projects",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "matters",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "partners",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "partners",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "agreements",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "agreements",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "proposals",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "proposals",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "governance",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "governance",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "conflict-queue",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "conflict-queue",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "visibility-approvals",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "visibility-approvals",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "risks",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "risks",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "referrals",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "referrals",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "status-tracker",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "status-tracker",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "payout-summary",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "payout-summary",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "shared-items",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "shared-items",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "compliance-reviews",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "compliance-reviews",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "deal-paths",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "deal-paths",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "demo-queue",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "demo-queue",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "integration-map",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "integration-map",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "advisory-requests",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "advisory-requests",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "meeting-notes",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "meeting-notes",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "resource-view",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "resource-view",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "activities",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "activities",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "kpi",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "kpi",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "ai-insights",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "insights",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/cfs/predictive-deal-closure-with-probability-modeling",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-cfs-predictive-deal-closure-with-probability-modeling",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/cfs/conflict-detection-in-partner-networks",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-cfs-conflict-detection-in-partner-networks",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/cfs/automated-payout-calculations-and-reconciliation",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-cfs-automated-payout-calculations-and-reconciliation",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/cfs/governance-compliance-automation-audit-approvals",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-cfs-governance-compliance-automation-audit-approvals",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/cfs/financial-system-integration-for-revenue-tracking",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-cfs-financial-system-integration-for-revenue-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/cfs/strategic-partner-recommendation-engine",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-cfs-strategic-partner-recommendation-engine",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/cfs/legalclm-system-integration",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-cfs-legalclm-system-integration",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/gap-ai/ai-opportunity-scoring-and-stage-prediction",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-gap-ai-ai-opportunity-scoring-and-stage-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/gap-ai/partner-performance-prediction",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-gap-ai-partner-performance-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/gap-ai/deal-stage-forecasting",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-gap-ai-deal-stage-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/gap-ai/conflict-resolution-recommendation",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-gap-ai-conflict-resolution-recommendation",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/gap-ai/governance-compliance-auto-checks",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-gap-ai-governance-compliance-auto-checks",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/gap-nonai/payoutrevenue-share-management",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-gap-nonai-payoutrevenue-share-management",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/gap-nonai/financial-reporting-and-reconciliation",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-gap-nonai-financial-reporting-and-reconciliation",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/gap-nonai/contract-lifecycle-management-module",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-gap-nonai-contract-lifecycle-management-module",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/gap-nonai/negotiation-playbook-template-library",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-gap-nonai-negotiation-playbook-template-library",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/gap-nonai/mobile-partner-portal-ui",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-gap-nonai-mobile-partner-portal-ui",
+      "kind": "route"
+    },
+    {
+      "project": "alliance",
+      "sourceKey": "batch09/gap-nonai/e-signature-integration",
+      "source": "/Volumes/external/projects/alliance",
+      "canonical": "batch09-gap-nonai-e-signature-integration",
+      "kind": "route"
+    },
+    {
+      "project": "noCodeAIAgency",
+      "sourceKey": "code",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/app/dashboard/ai/page.tsx",
+      "canonical": "code",
+      "kind": "definition"
+    },
+    {
+      "project": "noCodeAIAgency",
+      "sourceKey": "integration",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/app/dashboard/ai/page.tsx",
+      "canonical": "integration",
+      "kind": "definition"
+    },
+    {
+      "project": "noCodeAIAgency",
+      "sourceKey": "template",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/app/dashboard/ai/page.tsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "noCodeAIAgency",
+      "sourceKey": "optimization",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/app/dashboard/ai/page.tsx",
+      "canonical": "optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "noCodeAIAgency",
+      "sourceKey": "debug",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/app/dashboard/ai/page.tsx",
+      "canonical": "debug",
+      "kind": "definition"
+    },
+    {
+      "project": "noCodeAIAgency",
+      "sourceKey": "/dashboard/templates",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/components/layout/Sidebar.tsx",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "noCodeAIAgency",
+      "sourceKey": "/dashboard/builder",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-builder",
+      "kind": "definition"
+    },
+    {
+      "project": "noCodeAIAgency",
+      "sourceKey": "/dashboard/integrations",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/components/layout/Sidebar.tsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "noCodeAIAgency",
+      "sourceKey": "/dashboard/white-label",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-white-label",
+      "kind": "definition"
+    },
+    {
+      "project": "noCodeAIAgency",
+      "sourceKey": "/dashboard/deployments",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-deployments",
+      "kind": "definition"
+    },
+    {
+      "project": "noCodeAIAgency",
+      "sourceKey": "/dashboard/clients",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/components/layout/Sidebar.tsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "noCodeAIAgency",
+      "sourceKey": "/dashboard/support-tickets",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-support-tickets",
+      "kind": "definition"
+    },
+    {
+      "project": "noCodeAIAgency",
+      "sourceKey": "/dashboard/ai",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/components/layout/Sidebar.tsx",
+      "canonical": "dashboard-ai",
+      "kind": "definition"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "agencyServices",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/agencyServices/src/components/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-native-service-companies",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/ai-native-service-companies/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-native-service-companies",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/ai-native-service-companies/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-native-service-companies",
+      "key": "/export/:entity",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-native-service-companies",
+      "key": "search",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-native-service-companies",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-native-service-companies",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-native-service-companies",
+      "key": "login",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-native-service-companies",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-native-service-companies",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-native-service-companies",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-native-service-companies",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-native-service-companies",
+      "key": "sample-data",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-native-service-companies",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/ai-native-service-companies",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-professional-services-sow-revenue-leakage",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "key": "/ai-center",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIFreelancerBusinessManager",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AIFreelancerBusinessManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "akarsuadvisory",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "akarsuadvisory",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "akarsuadvisory",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "akarsuadvisory",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "akarsuadvisory",
+      "key": "about",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "akarsuadvisory",
+      "key": "/services/:slug",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "akarsuadvisory",
+      "key": "login",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "akarsuadvisory",
+      "key": "ai",
+      "source": "/Volumes/external/projects/akarsuadvisory",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/alliance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/alliance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/alliance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance",
+      "key": "login",
+      "source": "/Volumes/external/projects/alliance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/alliance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance",
+      "key": "ai",
+      "source": "/Volumes/external/projects/alliance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/alliance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "alliance",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "alliance",
+      "key": "/batch09/cfs/partner-ri[redacted]",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "noCodeAIAgency",
+      "key": "workflow",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/app/dashboard/ai/page.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "noCodeAIAgency",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/noCodeAIAgency/src/components/layout/Sidebar.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "msa-sow-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "resource-rate-card",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "time-entry-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "expense-eligibility",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "milestone-completion-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "deliverable-acceptance-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "fixed-fee-allocation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "time-material-billing",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "change-request-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "out-of-scope-work-quantification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "price-escalation-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "client-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-collection-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "project-client-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    }
+  ]
+}

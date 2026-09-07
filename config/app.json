@@ -1,0 +1,29 @@
+{
+  "id": "professional-services-platform",
+  "title": "Professional services & agency delivery",
+  "buyer": "Agencies, freelancers and professional firms",
+  "sourceCount": 7,
+  "sources": [
+    "agencyServices",
+    "ai-native-service-companies",
+    "ai-professional-services-sow-revenue-leakage",
+    "AIFreelancerBusinessManager",
+    "akarsuadvisory",
+    "alliance",
+    "noCodeAIAgency"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46056,
+  "productName": "Professional services Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/agencyServices",
+    "/Volumes/external/projects/ai-native-service-companies",
+    "/Volumes/external/projects/ai-professional-services-sow-revenue-leakage",
+    "/Volumes/external/projects/AIFreelancerBusinessManager",
+    "/Volumes/external/projects/akarsuadvisory",
+    "/Volumes/external/projects/alliance",
+    "/Volumes/external/projects/noCodeAIAgency"
+  ]
+}

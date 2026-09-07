@@ -1,0 +1,44 @@
+[
+  {
+    "id": "agencyServices",
+    "name": "Agency services",
+    "sourceProject": "agencyServices",
+    "services": []
+  },
+  {
+    "id": "ai-native-service-companies",
+    "name": "Native service companies",
+    "sourceProject": "ai-native-service-companies",
+    "services": []
+  },
+  {
+    "id": "ai-professional-services-sow-revenue-leakage",
+    "name": "Professional services sow revenue leakage",
+    "sourceProject": "ai-professional-services-sow-revenue-leakage",
+    "services": []
+  },
+  {
+    "id": "AIFreelancerBusinessManager",
+    "name": "Freelancer business manager",
+    "sourceProject": "AIFreelancerBusinessManager",
+    "services": []
+  },
+  {
+    "id": "akarsuadvisory",
+    "name": "Akarsuadvisory",
+    "sourceProject": "akarsuadvisory",
+    "services": []
+  },
+  {
+    "id": "alliance",
+    "name": "Alliance",
+    "sourceProject": "alliance",
+    "services": []
+  },
+  {
+    "id": "noCodeAIAgency",
+    "name": "No code aiagency",
+    "sourceProject": "noCodeAIAgency",
+    "services": []
+  }
+]
